@@ -8,7 +8,7 @@ body{
 }
 
 .cabeçalho {
-    background-color: #483bbd;
+    background-color: #436b5c;
     display: flex;
     padding: 24px 0;
     justify-content: space-around;
@@ -16,7 +16,7 @@ body{
 }
 
 .cabeçalho-título {
-    color: #6ce1e6;
+    color: #e8e2db;
     font-size: 48px;
 }
 
@@ -40,8 +40,8 @@ body{
 }
 
 .Apresentação {
-    background-image: linear-gradient(#1a3607, #2ba060);
-    color: white;
+    background-image: linear-gradient(#bf9550, #e8e2db);
+    color: rgba(0, 0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
